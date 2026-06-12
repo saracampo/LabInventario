@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+*.log
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Angular cache
+frontend/.angular/
+
+# Coverage
+coverage/
